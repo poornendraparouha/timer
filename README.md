@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Created timer while learning lifecycle in react
 
-#ipod project using create react app
+# Getting Started with Create React App
